@@ -1,0 +1,80 @@
+*{margin: 0; padding: 0; border: 0; outline: none;} 
+body{font-family: 'Open Sans', sans-serif; font-size: 14px; line-height: 21px; color: #613701}
+.container{width: 1140px; margin: 0 auto}
+h1,h2,h3{font-family: 'Roboto Condensed', sans-serif; font-size: 30px; text-transform: uppercase; font-weight: bold; margin-bottom: 45px} 
+h2{font-size: 20px; margin-bottom: 26px}
+.clearfix{clear: both;}
+.pull-left{float: left;}
+.pull-right{float: right;}
+.text-center{text-align: center;}
+.btn-yellow{padding: 10px 8px 10px 8px;  background-color: #f7ce4f; color: white; font-family: sans-serif; font-size: 14px; height: 24px; width: 114px; display: inline-block; text-decoration: none; cursor: pointer;}
+.column{float: left;}
+.column3{margin-right: 0px !important}
+
+
+header ul{list-style: none;}
+header li, header a{display: inline-block;}
+header li{padding: 12px 25px;}
+header a{color: #222; text-decoration: none;}                       
+.top-left li{border-right: 1px solid #ccc}
+.top-right li{border-left: 1px solid #ccc}
+.top-header{border-bottom: 1px solid #ccc}
+.main-header{padding: 21px 0}
+.main-header li{padding: 0}
+.main-header a{padding: 17px 31px; font-size: 15px; font-weight: bold; text-transform: uppercase;}
+.search{background: none; line-height: 55px; font-size: 15px; cursor: pointer; padding: 0 10px}
+
+.slider{max-height: 600px; overflow: hidden;}
+/*.slider img{width: 100%; height: 100%;}*/
+
+section{padding: 80px 0 50px;}
+section h1{font-size: 30px; text-transform: uppercase; margin-bottom: 25px}
+.intro-text{font-size: 14px; max-width: 890px; margin: 0 auto; margin-bottom: 50px;}
+.column{margin: 0 auto}
+.column{width: 360px; height: 356px; margin-right: 30px; margin-left: 15px; margin-bottom: 50px }
+/*.column img, h2{margin-bottom: 25px; padding-left: 107px;}*/
+.column h2{margin-bottom: 30px}
+.icon1-text{margin-bottom: 20px; font-size: 14px; font-family: 'Open Sans',sans-serif; text-align: center;}
+
+
+.bg-lg{background-color: #f5f5f5}
+.block{width: 570px; height: 217px}
+.block .column{width: 50%}
+.columnT {max-width: 285px; max-height: 213px;}
+/*.columnI {max-width: 285px; max-height: 213px;}*/
+.le{float: left;}
+.row1{background-color: #613701}
+.row2{background-color: #20385f}
+.columnT{margin-bottom: 20px; font-size: 14px; font-family: 'Open Sans',sans-serif; text-align: center; color: white; margin-top: 20px;}
+.textC{margin-bottom: 24px}
+.columnI img{display: block;}
+
+
+
+.touch{max-height: 130px; background-color: #222; padding: 36px 0;}
+.touch h4{font-size: 30px; font-family: 'Open Sans',sans-serif; color: white; margin-bottom: 15px}
+.subs{display: flex;}
+p{font-size: 14px; font-family: 'Open Sans',sans-serif; color: white}
+.columnS{max-width: 676px; }
+.touch input{width:354px; padding: 18px 24px; font-family: 'Open Sans',sans-serif; font-size: 14px; box-sizing: border-box;border-top-left-radius: 25px; border-bottom-left-radius: 25px; } 
+.btn-subscribe{background-color: #613701; color:white; font-family: 'Open Sans',sans-serif; text-transform: uppercase; padding: 18px 24px; font-weight: bold; font-size: 14px}
+.btn-subscribe{box-sizing: border-box;border-top-right-radius: 25px; border-bottom-right-radius: 25px;}
+
+
+h5{text-align: center; font-weight: bold; color: black; font-size: 30px; font-family: 'Open Sans', sans-serif; text-transform: uppercase; margin-top: 80px; margin-bottom: 50px}
+.columnC {max-width: 555px; max-height: 44px;}
+.conts{display: flex;}
+.columnC input{background-color: #eee; padding: 14px; width: 229px; }
+.Ema{margin-left: 41px}
+.columnM {max-width: 555px; max-height: 192px; margin-top: 16px}
+.columnM textarea{background-color: #eee; padding: 14px; width: 527px; margin-bottom: 14px; font-family: 'Open Sans', sans-serif;}
+.btn-feed{padding: 10px 8px 10px 8px;  background-color: #f7ce4f; color: white; font-family: sans-serif; font-size: 14px; height: 44px; width: 130px; display: inline-block; text-decoration: none; cursor: pointer;}
+
+
+.social{margin-top: 14px}
+.social a{height: 38px; width: 38px; background-color: #4e4e4e; color: #fff; font-size: 20px; display: inline-block; margin-right: 16px; padding: 8px 0; text-align: center; box-sizing: border-box;}
+
+footer{background-color: #222;}
+
+footer{background-color: #222; padding: 30px 0; color: #999}
+footer a{color: #999; text-decoration: none; margin-left: 20px}
